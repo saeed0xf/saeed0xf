@@ -116,7 +116,7 @@
 <a href="https://www.linkedin.com/in/saeeed/">
 <img src="https://img.shields.io/badge/-saeeed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saeeed/" />
 </a>
-<a href="https://twitter.com/saeed0x1"><img src="https://img.shields.io/badge/-zerodayrat-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/saeed0x1" /></a>
+<a href="https://twitter.com/saeed0x1"><img src="https://img.shields.io/badge/-saeed0x1-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/saeed0x1" /></a>
 <!-- <a href="#"><img src="https://img.shields.io/badge/-HackTheBox-000000?style=flat&logo=codesandbox&logoColor=9FEF00"/></a> -->
 <!-- <a href="https://tryhackme.com/p/FangX"> <img src="https://img.shields.io/badge/-TryHackMe-gray?style=flat&logo=icloud&logoColor=white"/></a> -->
 
