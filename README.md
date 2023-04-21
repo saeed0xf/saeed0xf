@@ -10,7 +10,7 @@
 
 <p>
  <i>
- I'm Saeed, Final year Information Technology Undergraduate. 
+ I'm Saeed, Final year Computer Applications Undergraduate. 
  I'm a Tech Enthusiast.
  </i>
 </p>
