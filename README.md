@@ -114,7 +114,7 @@
  
 <!-- <img src="https://img.shields.io/badge/-zerodayrat-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/" /> -->
 <!-- <img src="https://img.shields.io/badge/-zerodayrat-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:" /> -->
-<a href="https://www.linkedin.com/in/saeeed/">
+<a href="https://www.linkedin.com/in/saeed0x1/">
 <img src="https://img.shields.io/badge/-saeeed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saeeed/" />
 </a>
 <a href="https://twitter.com/saeed0x1"><img src="https://img.shields.io/badge/-saeed0x1-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/saeed0x1" /></a>
