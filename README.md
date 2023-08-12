@@ -15,7 +15,7 @@
 </p>
 
 <!--- 🌱 I’m currently exploring different domains of tech.-->
-- 🔭 I’m currently working on my Personal Projects.
+- 🌱 I’m currently working on my Personal Projects.
 - 👯 I’m looking to collaborate with other developers/security researchers in the community.
 - 💬 Ask me about Full stack developement and Cyber Security.
 - ⚡ Fun fact: Fast learner & Pretty good with learning new technologies.
