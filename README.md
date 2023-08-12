@@ -10,11 +10,11 @@
 
 <p>
  <i>
- I'm Saeed, I'm a Tech Enthusiast.
+<!--  I'm Saeed, I'm a Tech Enthusiast. -->
  </i>
 </p>
 
-- 🌱 I’m currently exploring different domains of tech.
+<!--- 🌱 I’m currently exploring different domains of tech.-->
 - 🔭 I’m currently working on my Personal Projects.
 - 👯 I’m looking to collaborate with other developers/security researchers in the community.
 - 💬 Ask me about Full stack developement and Cyber Security.
