@@ -97,13 +97,13 @@
 <!--   <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=saeed0xf&theme=tokyonight" /> -->
 </p>
 
-### 📚 Contributions
+<!--### 📚 Contributions -->
 
 <p align="center">
 <!-- <img src = "https://activity-graph.herokuapp.com/graph?username=zerodayrat&theme=react-dark" width="90%" align = "center">  -->
-<img src="https://github.com/saeed0xf/saeed0xf/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only">
+<!-- <img src="https://github.com/saeed0xf/saeed0xf/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only"> -->
 <!-- <img src="https://raw.githubusercontent.com/zerodayrat/ZeroDayRAT/main/img/stat.svg" alt="snake" align="center"> -->
-</p>
+<!-- </p> -->
 
 <hr>
 
