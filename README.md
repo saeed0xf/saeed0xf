@@ -2,7 +2,7 @@
 <p align="center">
 <!--  <img src="https://readme-typing-svg.herokuapp.com?font=Quando&color=%231CD0C2&size=30&duration=4200&center=true&vCenter=true&width=400&height=55&lines=Automation;WebDev.+and+WebSec.;CTF+Player/Developer"> -->
 <a href="https://git.io/typing-svg">
-	<img src="https://readme-typing-svg.herokuapp.com?font=Quando&size=30&duration=4000&pause=1000&color=22A786&center=true&vCenter=fale&width=435&lines=Full+Stack+Developer;CTF+Player%2FDeveloper" alt="Typing SVG" />
+	<img src="https://readme-typing-svg.herokuapp.com?font=Quando&size=30&duration=4000&pause=1000&color=22A786&center=true&vCenter=fale&width=435&lines=Cyber+Security+Engineer;CTF+Player%2FDeveloper" alt="Typing SVG" />
 </a>
 </p>
 
